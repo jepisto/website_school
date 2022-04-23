@@ -1,0 +1,289 @@
+
+
+h1 {
+    text-align:center;
+    padding: 40px;
+    font-size:60px;
+    color:#785845;
+    text-shadow:2px 2px 2px black;
+}
+
+.header1-image{
+    width:100px;
+    height:100px;
+}
+
+.fronttext {
+    margin-left:80px;
+    padding-top:80px;
+    padding-bottom:10px;
+    font-size:35px;
+    border-bottom-style:solid;
+
+}
+
+.second-page-header {
+   margin-left:80px;
+    padding-top:80px;
+    padding-bottom:10px;
+    font-size:35px;
+    border-bottom-style:solid;
+}
+
+
+.second-page-h3{
+    padding:15px;
+    background-color:#e7d9c7;
+    font-size:25px;
+    text-align:center;
+  
+
+}
+
+.secondpageh4{
+    text-align:justify;
+}
+
+.third-page-header{
+    margin-left:80px;
+    padding-top:80px;
+    padding-bottom:10px;
+    font-size:35px;
+    border-bottom-style:solid;
+}
+
+.col-md-12 {
+  width:fit-content;
+  margin-left: 20%;
+  margin-right:20%;
+}
+
+
+.uppernav  {
+    margin-left:10%;
+    margin-right:10%;
+    padding:8px;
+    border-radius:25px;
+    border-color:black;
+    border-style:solid;
+    background: #e7d9c7;
+    
+}
+
+.nav-link {
+    color:black;
+    font-size:25px;
+    padding: 7px;
+}
+
+.nav-link:visited{
+    color:brown;
+}
+
+.nav-link:hover{
+    background-color:#c4b8aa;
+    border-radius:25px;
+ 
+}
+
+.nav-item a.nav-link.active{
+  border-style:solid;
+  border-width: 4px;
+  border-radius:25px;
+  border-color:white;
+}
+
+.nav.flex-column {
+    width:fit-content;
+    margin-left:10px;
+    border-style:solid;
+    border-color:#c4b8aa;
+    border-width:2px;
+    
+}
+
+.navbar-toggler {
+    background-color: white;
+    
+
+}
+
+
+
+.row{
+    padding:30px;
+}
+.polaroid1 {
+    margin-left:60px;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+   
+  }
+
+  li{
+      list-style:none;
+      padding:10px;
+      font-size:15px;
+  }
+
+.infolist{
+    margin-left:60px;
+    border-radius:20px;
+   border: 3px #e7d9c7 solid;
+    padding:10px;
+}
+
+.infoinfo{
+    font-size:20px;
+    padding:10px;
+}
+
+  .polaroid2 {
+      margin-left:60px;
+      width:300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+   
+  }
+  .container {
+    padding: 10px;
+  }
+
+  .polaroid3{
+    width:300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+  
+  }
+
+  .polaroid4{
+    margin-left:60px;
+    width:300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+   
+  }
+
+  .col-md-3{
+      padding:5px;
+  }
+.col-md-4{
+    padding:10px;
+} 
+ .col-md-5{
+     padding:10px;
+ }
+  .col-md-6{
+      padding:8px;
+  }
+
+  .polaroidtext{
+      font-size:30px;
+      color:#785845;
+      text-shadow:1px 1px 1px black;
+  }
+
+  .polaroidtext2{
+    font-size:20px;
+    color:#785845;
+    text-shadow:1px 1px 1px black;
+  }
+  .polaroidinfo{
+     border-radius:20px;
+     background-color:#e7d9c7;
+    padding:10px;
+    
+
+  }
+
+  .polaroidinfo li{
+   padding:10px;
+    vertical-align: middle;
+  }
+
+  .polaroidinfo li:hover{
+    background-color:#c4b8aa;
+
+  }
+
+  fieldset{
+    background-color:#e7d9c7;
+    border-radius:20px;
+    padding:8px;
+   
+}
+form {
+   padding-left:10px;
+  
+   
+}
+
+legend{
+    color:#785845;
+    font-size:30px;
+    text-shadow:1px 1px 1px black;
+    border: 3px #785845 solid;
+    border-radius:20px;
+    padding:5px;
+    background-color: white;
+}
+
+label, input{
+    padding:5px;
+}
+
+input[type=text] {
+    font-size: 15px;
+    width:80%;
+    padding: 10px;
+    display:inline-block;
+    border:1px solid #785845;
+    border-radius:5px;
+    box-sizing:border-box;
+}
+
+input:hover{
+    background-color:#e6dbd1;
+}
+
+select {
+    font-size:16px;
+    border-radius:5px;
+    border-width:2px;
+    border-color:#785845;
+
+}
+
+select, option:hover{
+    background-color:white;
+   
+}
+
+
+input[type=submit] {
+    width: 30%;
+    font-size:20px;
+    background-color:green;
+    color:white;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    margin-bottom:10px;
+    margin-left:5px;
+}
+
+input[type=submit]:hover{
+    background-color:darkgreen;
+}
+
+  .footer {
+  
+        text-align:center;
+        margin:20px 40px 5px 40px;
+        scroll-margin-bottom: 10px;
+        border-style:hidden;
+        background-color:#c4b8aa;
+        font-size:15px;
+  }
